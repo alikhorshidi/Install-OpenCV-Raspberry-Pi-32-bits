@@ -1,5 +1,7 @@
 Ali: If you have some errors in numpy (after complete installation), use this command: 
+```
 $ python3 -m pip install numpy -I
+```
 
 
 
